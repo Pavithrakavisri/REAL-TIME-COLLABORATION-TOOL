@@ -14,3 +14,5 @@ This project involves building a real-time collaborative platform that allows mu
 The goal is to provide a seamless and interactive user experience where edits made by one user are reflected instantly for all others, enabling live teamwork.
 
 "OUTPUT" :
+
+![Image](https://github.com/user-attachments/assets/643552ea-e82a-49b7-95b4-4a9bc4a172ca)
